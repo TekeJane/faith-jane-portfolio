@@ -1,0 +1,49 @@
+QUEUELESS CASE STUDY — SCREEN UPLOAD GUIDE
+=========================================
+
+Save the images in this folder: assets/projects/
+Use the exact .jpg filenames below. Each frame shows the whole image at a sensible size, without stretching or cropping.
+
+01–05 · GET STARTED
+01  Splash screen — QueueLess brand mark and opening promise.
+    Filename: queueless-screen-01.jpg (already uploaded)
+02  Onboarding screens — a four-screen strip showing skip the line, see wait estimates, get turn alerts, and book ahead.
+    Filename: queueless-screen-02.jpg (already uploaded)
+03  Welcome to QueueLess — create-account and sign-in options.
+    Filename: queueless-screen-03.jpg (already uploaded)
+04  Create an account — new-user details and account setup.
+    Filename: queueless-screen-04.jpg (already uploaded)
+05  Sign in — returning users access their account.
+    Filename: queueless-screen-05.jpg (already uploaded)
+
+06–10 · FIND THE RIGHT SERVICE
+06  QueueLess home — active queue, nearby branches and quick actions.
+    Filename: queueless-screen-06.jpg (already uploaded)
+07  Find nearby services — find a location or enter one manually.
+    Filename: queueless-screen-07.jpg (already uploaded)
+08  Search services — search, recent searches, popular categories and nearby options.
+    Filename: queueless-screen-08.jpg (already uploaded)
+09  Filtered branch results — compare distance, estimated wait, opening status and services.
+    Filename: queueless-screen-09.jpg (already uploaded)
+10  Branch map — compare nearby branches on a map.
+    Filename: queueless-screen-10.jpg
+
+11–15 · JOIN AND TRACK A QUEUE
+11  Choose a service — pick the type of help needed and compare estimated waits.
+    Filename: queueless-screen-11.jpg
+12  Service details and requirements — check the estimated wait and what to bring.
+    Filename: queueless-screen-12.jpg
+13  Review queue details — confirm branch, service, wait and people ahead.
+    Filename: queueless-screen-13.jpg
+14  Queue ticket confirmation — ticket number, position and estimated wait.
+    Filename: queueless-screen-14.jpg
+15  Live queue tracking — follow ticket progress and updates while waiting.
+    Filename: queueless-screen-15.jpg
+
+16–17 · BOOK AN APPOINTMENT
+16  Confirm an appointment — review the branch, service, date and time.
+    Filename: queueless-screen-16.jpg
+17  Appointment confirmed — see visit details and add the booking to a calendar.
+    Filename: queueless-screen-17.jpg
+
+Each QueueLess case-study card shows its title, a brief explanation and filename. Screens 01–09 are included. Add any remaining screens to assets/projects/ with the filename shown here; the website will display them automatically.

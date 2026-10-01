@@ -1,0 +1,23 @@
+AI STYLISH CASE STUDY - IMPORTANT SCREENS
+========================================
+
+Save the files in: assets/projects/
+Use these exact JPG filenames. The portfolio displays five selected screens, grouped by the styling journey.
+
+01-02 - GET STARTED
+01  Onboarding screens - Make one overview image from the three onboarding panels: virtual outfit try-on, weather-based looks and the wardrobe planner. Keep all three panels readable.
+    Filename: ai-stylish-screen-01.jpg
+02  Create an account - Shows how a new member creates a profile and saves their wardrobe and style preferences.
+    Filename: ai-stylish-screen-02.jpg
+
+03-04 - FIND A LOOK
+03  AI outfit try-on - Shows a member previewing an outfit from clothes in their own wardrobe.
+    Filename: ai-stylish-screen-03.jpg
+04  Weather-based outfit suggestions - Shows outfit recommendations that take the day's local weather into account.
+    Filename: ai-stylish-screen-04.jpg
+
+05 - PLAN YOUR WARDROBE
+05  Wardrobe calendar - Shows planned outfits and wardrobe-use insights in a calendar.
+    Filename: ai-stylish-screen-05.jpg
+
+For screen 01, combine the three onboarding panels into one overview image. For screens 03-05, export the matching feature screens individually from your design file. Use portrait JPG images and keep their original proportions; the portfolio will fit them without cropping.

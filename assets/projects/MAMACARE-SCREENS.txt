@@ -1,0 +1,39 @@
+MAMACARE CASE STUDY — IMPORTANT SCREENS
+=======================================
+
+Save the image files in: assets/projects/
+Use the exact .jpg filename shown under each screen on the MamaCare page. The case study explains what each screen is for.
+
+01–05 · GET STARTED
+01  Onboarding screens — four-panel overview of pregnancy tracking, appointments, learning and support.
+    Filename: mamacare-screen-01.jpg (already uploaded)
+02  Welcome to MamaCare — gives new and returning users a clear way to create an account or log in.
+    Filename: mamacare-screen-02.jpg
+03  Create an account — collects the details needed to set up a personal account.
+    Filename: mamacare-screen-03.jpg
+04  Pregnancy setup — collects the due date to personalize week-by-week guidance.
+    Filename: mamacare-screen-04.jpg
+05  Care preferences — lets the user choose which support and reminders to see.
+    Filename: mamacare-screen-05.jpg
+
+06–08 · FOLLOW THE PREGNANCY
+06  Home dashboard — brings the current week, upcoming care and quick actions together.
+    Filename: mamacare-screen-06.jpg
+07  Pregnancy week — shows pregnancy progress and the baby’s development for that stage.
+    Filename: mamacare-screen-07.jpg
+08  Learning article — offers relevant guidance and questions to discuss with a care provider.
+    Filename: mamacare-screen-08.jpg
+
+09–11 · KEEP CARE ORGANIZED
+09  Add an appointment — records the provider, visit date, time and reminder.
+    Filename: mamacare-screen-09.jpg
+10  Upcoming appointments — makes the next antenatal visit and appointment list easy to review.
+    Filename: mamacare-screen-10.jpg
+11  My health — organizes health notes and recorded measures in one place.
+    Filename: mamacare-screen-11.jpg
+
+12 · PREPARE FOR BIRTH
+12  Birth preparation — tracks practical steps such as choosing a care facility and preparing documents and a hospital bag.
+    Filename: mamacare-screen-12.jpg
+
+The first onboarding overview is included. Add screen images 02–12 to assets/projects/ with these names. Keep each image in its original proportions; the website will show the full image and its short explanation.

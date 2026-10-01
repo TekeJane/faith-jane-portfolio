@@ -1,0 +1,51 @@
+FINDHOUSE — SELECTED PORTFOLIO SCREENS
+======================================
+
+Export the selected mobile screens as JPG images and place them in this folder.
+Use the exact filenames below. The case study groups them by task and explains
+what each screen helps the renter do.
+
+01 · Onboarding screens — findhouse-screen-01.jpg
+Combine the three onboarding frames labeled 20, 21 and 22 into one wide image:
+“100% Verified Properties,” “Take Virtual Video Tours,” and “Secure Mobile Payments.”
+In Figma, place the three phone frames side by side in a new frame, then export that
+frame as a JPG. This is the first screen shown in the FindHouse case study and on its
+project card.
+
+02 · Phone number sign up — findhouse-screen-02.jpg
+Export the phone number registration screen at the upper left of the supplied design.
+It collects a phone number to start a renter account.
+
+03 · Phone verification — findhouse-screen-03.jpg
+Export the verification screen beside registration. It asks for the one-time code sent
+to the renter’s phone to confirm the account.
+
+04 · Home & verified listings — findhouse-screen-04.jpg
+Use Frame 23, the home screen with search, property filters and verified listings.
+It helps renters begin browsing available homes.
+
+05 · Map & area filters — findhouse-screen-05.jpg
+Use Frame 24, the map screen. It helps renters explore listings by neighborhood,
+budget and amenities.
+
+06 · Property details — findhouse-screen-06.jpg
+Use Frame 25, the home detail screen. It presents photos, price, location and property
+features, with options to contact the agent or book a visit.
+
+07 · Chat & viewing request — findhouse-screen-07.jpg
+Use Frame 26, the agent conversation. It shows how a renter can ask a question and
+request an inspection.
+
+08 · Saved properties — findhouse-screen-08.jpg
+Use Frame 27, the saved listings screen. It keeps shortlisted homes together for
+later review and comparison.
+
+OPTIONAL
+The password and OTP recovery screens can be added later as supporting authentication
+screens. They are omitted from the selected gallery so the portfolio stays focused on
+the main home finder journey.
+
+IMAGE FIT
+Export each screen at its original resolution. The portfolio keeps images in their
+original proportions and fits them inside the gallery area without stretching or
+cropping. If an image has a different extension, update its filename in script.js.

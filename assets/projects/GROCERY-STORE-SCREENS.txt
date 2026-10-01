@@ -1,0 +1,18 @@
+GROCERY STORE — SELECTED PORTFOLIO SCREENS
+
+Upload these three images to assets/projects/ using the exact filenames below.
+The case study displays them in this order and adds the descriptions beneath each image.
+
+01 — Onboarding screens
+Filename: grocery-store-screen-01.jpg
+Shows the welcome screen introducing fresh groceries and daily delivery, with a clear action to continue.
+
+02 — Home screen
+Filename: grocery-store-screen-02.jpg
+Shows the shopping starting point, including search, a current offer, grocery categories and popular products.
+
+03 — Categories
+Filename: grocery-store-screen-03.jpg
+Shows the searchable category browser for finding common groceries and everyday essentials.
+
+Export each mobile screen as a clear JPG. Keep the full phone screen visible and do not combine the three screens into one image.

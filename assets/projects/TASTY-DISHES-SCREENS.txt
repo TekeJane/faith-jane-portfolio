@@ -1,0 +1,45 @@
+TASTY DISHES — SELECTED PORTFOLIO SCREENS
+=========================================
+
+Export each selected phone frame as an individual JPG and save it in this folder.
+Use the exact numbered filenames below. The case study groups the screens by task
+and displays a short explanation under every image.
+
+01 · Welcome & onboarding — tasty-dishes-screen-01.jpg
+Use Frame 2, the welcome screen with “Discover Tasty Dishes” and “Let’s get started.”
+It introduces the food experience and gives first-time customers a clear next step.
+
+02 · Create an account — tasty-dishes-screen-02.jpg
+Use Frame 3, the sign-up form. It collects the information needed to create a customer account.
+
+03 · Sign in — tasty-dishes-screen-03.jpg
+Use Frame 4, the sign-in form. It helps returning customers access their account.
+
+04 · Home & menu categories — tasty-dishes-screen-04.jpg
+Use Frame 8, the home screen. It surfaces offers, food categories and popular meals for browsing.
+
+05 · Search & recommendations — tasty-dishes-screen-05.jpg
+Use Frame 9, the search screen. It combines dish search, food filters and recommendations.
+
+06 · Dish details — tasty-dishes-screen-06.jpg
+Use Frame 10, the meal detail screen. It presents the photo, price, ratings, reviews and delivery estimate.
+
+07 · Review your order — tasty-dishes-screen-07.jpg
+Use Frame 11, the basket screen. It shows selected dishes, quantities and total before checkout.
+
+08 · Profile & account settings — tasty-dishes-screen-08.jpg
+Use Frame 12, the profile screen. It links to orders, delivery addresses, payment and support.
+
+OPTIONAL COVER IMAGE
+You may export Frame 1, the orange Tasty Dishes splash screen, as
+tasty-dishes-cover.jpg. This is optional; screen 01 is used for the project card.
+
+SELECTED SCREENS
+The case study focuses on the core discovery and ordering experience. The password,
+OTP verification and password reset frames are useful supporting flows but are not
+included in this concise portfolio gallery.
+
+TIP
+Export the original full-resolution frames rather than a screenshot of the whole
+Figma canvas. Keep the filenames exactly as written. The portfolio fits each image
+inside its frame without stretching or cropping it.
