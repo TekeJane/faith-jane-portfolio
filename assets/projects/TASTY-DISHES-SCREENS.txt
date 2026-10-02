@@ -27,7 +27,7 @@ Use Frame 10, the meal detail screen. It presents the photo, price, ratings, rev
 07 · Review your order — tasty-dishes-screen-07.jpg
 Use Frame 11, the basket screen. It shows selected dishes, quantities and total before checkout.
 
-08 · Profile & account settings — tasty-dishes-screen-08.jpg
+08 · Paramètres du profil et du compte — tasty-dishes-screen-08.jpg
 Use Frame 12, the profile screen. It links to orders, delivery addresses, payment and support.
 
 OPTIONAL COVER IMAGE
